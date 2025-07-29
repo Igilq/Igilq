@@ -1,5 +1,25 @@
 ## Hi there 👋
 
+## 📊 GitHub Statistics
+
+<div align="center">
+
+### Repository Overview
+| Metric | Count |
+|--------|-------|
+| 📚 Total Repositories | 1 |
+| 🌐 Public Repositories | 1 |
+
+### Community Stats
+| Metric | Count |
+|--------|-------|
+| 👥 Followers | 0 |
+| 👤 Following | 0 |
+
+</div>
+
+---
+
 <!--
 **Igilq/Igilq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
