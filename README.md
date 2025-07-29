@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+### About Me
+
+👤 **Name:** Igor Wiśniewski  
+📍 **Location:** Poland, Olsztyn  
+🔗 **GitHub Profile:** [Igilq](https://github.com/Igilq)
+
 <!--
 **Igilq/Igilq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
